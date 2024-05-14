@@ -37,3 +37,7 @@ The content for Shift Left DevOps Practices for developing LLM Apps (aka LMOps) 
 
 9. Guiding participant to build a RAG application on AWS
     - Provide a step-by-step guide for participants to build their own RAG application on AWS. Offer support and guidance as they work through the process, and encourage them to apply the principles of MLOps and LLMOps that they've learned in the workshop.
+  
+    - Main references:
+https://mlflow.org/docs/latest/llms/rag/notebooks/mlflow-e2e-evaluation.html
+https://pages.awscloud.com/rs/112-TZM-766/images/AWS_FMOps_LLMOps_Operationalise_GenAI_using_MLOps_principles.pdf
